@@ -1,12 +1,13 @@
-## Welcome to the team 🙌
+# Функциональное и логическое программирование 
 
-<!--
+Инструкция по доступу к курсу: https://filp-2024.github.io/readme
 
-**Here are some ideas to get you started:**
+----
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Группа | Организация в github                |
+|--------|-------------------------------------|
+| КН-201 | https://github.com/filp-2024-kn-201 |
+| КН-202 | https://github.com/filp-2024-kn-202 |
+| КН-203 | https://github.com/filp-2024-kn-203 |
+| КН-204 | https://github.com/filp-2024-kn-204 |
+| Другая | https://github.com/filp-2024-other  |
